@@ -1,0 +1,2 @@
+# GDGoC2025
+Tugas GDGoc 2025
